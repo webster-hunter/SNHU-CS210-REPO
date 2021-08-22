@@ -1,3 +1,5 @@
+**PROJECT 3 REPO
+**
 1. Summarize the project and what problem it was solving.
 
   This program is a simple sales tracker. Given an input file containing a list of items sold, this project will be able to produce a list of all items sold, answer simple queries regarding sales quantities of specific products, and generate a histogram of all items sold.
